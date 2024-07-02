@@ -151,6 +151,8 @@ torch.onnx.export(model, dummy_input, "test-b1.onnx", verbose=True)
 See `examples/imagenet` for details about evaluating on ImageNet.
 
 ## Own Custom data Training
+## Just note 
+my data was [Pc parts](https://www.kaggle.com/datasets/asaniczka/pc-parts-images-dataset-classification)
 ### First
 Prepare your Dataset. The Dataset Structure needs to be 
 
