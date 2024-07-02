@@ -124,4 +124,10 @@ tf_to_pytorch/pretrained_tensorflow
 examples/imagenet/run.sh
 
 
+# dataset
+examples/imagenet/dataset
+
+# Pth
+examples/imagenet/checkpoint.pth.tar
+examples/imagenet/model_best.pth.tar
 
